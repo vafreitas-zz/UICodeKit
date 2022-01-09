@@ -22,7 +22,7 @@ pod 'UICodeKit'
 
 ## Author
 
-tqi-valves, tqi_valves@uolinc.com
+vafreitas, vitoralves59@gmail.com
 
 ## License
 
