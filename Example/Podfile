@@ -1,0 +1,15 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'UICodeKit_Example' do
+  pod 'UICodeKit', :path => '../'
+  pod "TinyConstraints"
+  pod "AloeStackView"
+
+  target 'UICodeKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
